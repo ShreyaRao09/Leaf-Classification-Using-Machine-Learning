@@ -1,3 +1,5 @@
+#Leaf Classification using Bagging, Random Forest, K-Nearest Neighbor, Naive Bayes and Support Vector Machine classifiers
+# Version 1.0: 11/27/2016
 require(e1071)
 require(caret)
 require(kernlab)
